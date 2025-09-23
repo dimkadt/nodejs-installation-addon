@@ -7,7 +7,7 @@ baseUrl: https://raw.githubusercontent.com/DmytroZubelevych/nodejs-installation-
 description: Installs Node.js® - a JavaScript runtime built on Chrome's V8 JavaScript engine - into the nodes based VAP certified templates. Node.js® uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
 categories:
   - apps/dev-and-admin-tools
-logo: https://raw.githubusercontent.com/DmytroZubelevych/nodejs-installation-addon/main/images/node.png
+logo: https://raw.githubusercontent.com/sych74/nodejs-installation-addon/main/images/node.png
 
 targetNodes:
   nodeType:
