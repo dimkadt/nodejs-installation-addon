@@ -137,7 +137,6 @@ onInstall:
       settings:
         nodeGroups: ${settings.nodeGroups}
         envName: ${settings.envName}
-        version: ${settings.version}
         minorVersion: ${settings.minorVersion}
 
 success:
